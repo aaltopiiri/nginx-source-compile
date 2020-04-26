@@ -1,6 +1,11 @@
-# nginx-source-compile
-Compile nginx from sources with OpenSSL and PCRE
-
+Установка nginx из исходных файлов
+================
+Замените версии nginx, openssl и pcre на требуемые в соответствующих папках
+Ссылки для скачивания
+- 
+-
+-
+В каталоге nginx запустите следующий набор команд:
   cd nginx
   ./install.sh
   make

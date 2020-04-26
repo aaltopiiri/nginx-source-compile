@@ -6,7 +6,7 @@
 Замените версии nginx, openssl и pcre на требуемые в соответствующих папках
 
 Ссылки для скачивания
-- [nginx]
+- [nginx] https://nginx.org/download/
 - [pcre]
 - [openssl]
 

@@ -15,6 +15,9 @@
 В каталоге nginx запустите следующий набор команд:
 
 ``cd nginx``
+
 ``./install.sh``
+
 ``make``
+
 ``sudo make install``

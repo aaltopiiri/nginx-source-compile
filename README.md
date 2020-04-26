@@ -1,4 +1,4 @@
-Build nginx from source files
+Build nginx from source files (nginx 1.14, pcre 8.44, openssl 1.1.1g)
 ================
 
 ## Requirenments

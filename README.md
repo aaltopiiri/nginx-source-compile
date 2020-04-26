@@ -1,7 +1,7 @@
 Установка nginx из исходных файлов
 ================
 
-#Необходимые пакеты
+# Необходимые пакеты
 
 Замените версии nginx, openssl и pcre на требуемые в соответствующих папках
 
@@ -10,11 +10,10 @@
 - [pcre]
 - [openssl]
 
-#Установка
+# Установка
 
 В каталоге nginx запустите следующий набор команд:
-
-  cd nginx
-  ./install.sh
-  make
-  sudo make install
+`cd nginx
+./install.sh
+make
+sudo make install`

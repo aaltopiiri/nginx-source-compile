@@ -1,0 +1,19 @@
+#export BUILD_DIR=/Users/aalto/Projects/nginx_compile/nginx
+export BUILD_DIR=`pwd`
+export NGINX_INSTALLDIR=/opt/nginx
+./configure \
+--prefix=${NGINX_INSTALLDIR} \
+    --user=www \
+    --group=www \
+    --with-http_v2_module   \
+    --with-http_ssl_module  \
+    --with-pcre \
+    --with-openssl=${BUILD_DIR}/../openssl   \
+    --with-pcre=${BUILD_DIR}/../pcre   \
+    --with-http_realip_module   \
+    --with-http_sub_module  \
+    --with-http_flv_module  \
+    --with-http_gzip_static_module  \
+    --with-http_gunzip_module   \
+    --with-http_secure_link_module  \
+    --with-http_stub_status_module

@@ -1,7 +1,7 @@
-Установка nginx из исходных файлов
+Build nginx from source files
 ================
 
-## Необходимые пакеты
+## Requirenments
 
 Замените версии nginx, openssl и pcre на требуемые в соответствующих папках
 
@@ -10,7 +10,7 @@
 - [pcre](https://ftp.pcre.org/pub/pcre/)
 - [openssl](http://artfiles.org/openssl.org/source/)
 
-## Установка
+## Install
 
 Запустите следующие команды:
 

@@ -7,8 +7,8 @@
 
 Ссылки для скачивания
 - [nginx] (https://nginx.org/download/)
-- [pcre]
-- [openssl]
+- [pcre] (https://ftp.pcre.org/pub/pcre/)
+- [openssl] (ftp://ftp.fi.muni.cz/pub/openssl/source/)
 
 ## Установка
 
